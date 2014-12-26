@@ -20,6 +20,7 @@ import java.util.List;
 
 public class Game
 {
+    //cool
     public static final Game instance = new Game();
 
     //Game Variables
